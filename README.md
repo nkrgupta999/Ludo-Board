@@ -11,6 +11,8 @@ To use this code, you will need a basic understanding of HTML and CSS.
 To use the Ludo board, simply open the HTML file in your browser. You can move the pieces around the board using your own game logic.
 
 ## Content
+https://nkrgupta999.github.io/Ludo-Board/
+
 ## Web-View
 
 ## Contributing
