@@ -14,6 +14,7 @@ To use the Ludo board, simply open the HTML file in your browser. You can move t
 https://nkrgupta999.github.io/Ludo-Board/
 
 ## Web-View
+https://nkrgupta999.github.io/Ludo-Board/ludo%20boad.html
 
 ## Contributing
 
