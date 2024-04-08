@@ -41,6 +41,8 @@ https://linktr.ee/nkrgupta999
 ## Acknowledgments
 This project was inspired by the classic board game Ludo.
 
+## Code of Conduct
+[Terms and Conditions](CODE_OF_CONDUCT.md)
 
 ## MIT License
 
